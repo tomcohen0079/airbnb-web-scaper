@@ -1,6 +1,5 @@
 # Airbnb_mining 
-Created by Tom Cohen and Roman Rosh
-
+Created by Tom Cohen
 A data scraping program for airbnb
 
 
